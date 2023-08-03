@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @isobelpritchard
+- 👀 I’m interested in full stack Software Development and Web Design
+- 🌱 I’m currently learning Computer Science, Maths and Textiles at A-Level and A/S Futher Maths
